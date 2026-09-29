@@ -8,8 +8,8 @@
     },
     {
       "path": "CITATION.cff",
-      "bytes": 545,
-      "sha256": "abfbbe0099e650aab1173de1525a6a6e5e7f6ef024fbd49fb8d42583749c301c"
+      "bytes": 536,
+      "sha256": "e45617c570b626b96d3c2f6994a9180a1aa11568b0e6a2110344288b127ecc8f"
     },
     {
       "path": "config/cache_lock.json",
@@ -183,8 +183,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3521,
-      "sha256": "47376390fb5f3813a7085125fd68a72c041e9a2e500435b270ff757d4c775946"
+      "bytes": 3512,
+      "sha256": "5a52e386c97d6fb17920743bd266a9c0741d941065156d50ef08ded1466862dc"
     },
     {
       "path": "README_CN.md",

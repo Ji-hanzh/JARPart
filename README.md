@@ -66,7 +66,7 @@ weights of 0.50 connectivity, 0.25 cut and 0.25 hop numerator.
 ## Circuit caches
 
 Download `JARPart_circuit_caches_20260929.tar.gz` from the repository's
-[Releases](https://github.com/jihanzhang582-rgb/JARPart/releases) and place it
+[Releases](https://github.com/Ji-hanzh/JARPart/releases) and place it
 beside `run.py`, then run:
 
 ```bash
