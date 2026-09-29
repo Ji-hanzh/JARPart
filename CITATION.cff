@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use JARPart in your research, please cite this work."
+title: "JARPart: Community-Guided Joint Refinement for Constrained Multi-FPGA Partitioning"
+type: software
+authors:
+  - family-names: Ji
+    given-names: Hanzhang
+  - family-names: Guo
+    given-names: Shikai
+  - family-names: Zhao
+    given-names: Wen
+  - family-names: Zhang
+    given-names: Xinlong
+  - family-names: Tang
+    given-names: Wenjun
+  - family-names: Li
+    given-names: Hui
+repository-code: "https://github.com/jihanzhang582-rgb/JARPart"
